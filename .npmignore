@@ -1,0 +1,13 @@
+scripts
+docs
+.babelrc
+.eslint*
+.idea
+.editorconfig
+.npmignore
+.nyc_output
+.travis.yml
+webpack.*
+coverage
+package-lock.json
+yarn.lock
